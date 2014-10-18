@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[array('$2' => $3);]]></content>
+    <content><![CDATA[array('$2' => $3),]]></content>
     <tabTrigger>arr</tabTrigger>
     <scope>source.php - variable.other.php</scope>
     <description>array (…)</description>
